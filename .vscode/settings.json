@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"memory_resource": "cpp",
+		"cmath": "cpp",
+		"sstream": "cpp"
+	}
+}

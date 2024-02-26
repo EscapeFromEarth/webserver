@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/abcpony/myProjects/Reactor_cppversion/build",
+  "command": "/usr/bin/g++   -I/home/abcpony/myProjects/Reactor_cppversion/.  -g   -std=gnu++11 -o CMakeFiles/server.dir/utils/acceptTask.cpp.o -c /home/abcpony/myProjects/Reactor_cppversion/utils/acceptTask.cpp",
+  "file": "/home/abcpony/myProjects/Reactor_cppversion/utils/acceptTask.cpp"
+},
+{
+  "directory": "/home/abcpony/myProjects/Reactor_cppversion/build",
+  "command": "/usr/bin/g++   -I/home/abcpony/myProjects/Reactor_cppversion/.  -g   -std=gnu++11 -o CMakeFiles/server.dir/utils/communicationTask.cpp.o -c /home/abcpony/myProjects/Reactor_cppversion/utils/communicationTask.cpp",
+  "file": "/home/abcpony/myProjects/Reactor_cppversion/utils/communicationTask.cpp"
+},
+{
+  "directory": "/home/abcpony/myProjects/Reactor_cppversion/build",
+  "command": "/usr/bin/g++   -I/home/abcpony/myProjects/Reactor_cppversion/.  -g   -std=gnu++11 -o CMakeFiles/server.dir/utils/logger.cpp.o -c /home/abcpony/myProjects/Reactor_cppversion/utils/logger.cpp",
+  "file": "/home/abcpony/myProjects/Reactor_cppversion/utils/logger.cpp"
+},
+{
+  "directory": "/home/abcpony/myProjects/Reactor_cppversion/build",
+  "command": "/usr/bin/g++   -I/home/abcpony/myProjects/Reactor_cppversion/.  -g   -std=gnu++11 -o CMakeFiles/server.dir/utils/server.cpp.o -c /home/abcpony/myProjects/Reactor_cppversion/utils/server.cpp",
+  "file": "/home/abcpony/myProjects/Reactor_cppversion/utils/server.cpp"
+},
+{
+  "directory": "/home/abcpony/myProjects/Reactor_cppversion/build",
+  "command": "/usr/bin/g++   -I/home/abcpony/myProjects/Reactor_cppversion/.  -g   -std=gnu++11 -o CMakeFiles/server.dir/utils/task.cpp.o -c /home/abcpony/myProjects/Reactor_cppversion/utils/task.cpp",
+  "file": "/home/abcpony/myProjects/Reactor_cppversion/utils/task.cpp"
+},
+{
+  "directory": "/home/abcpony/myProjects/Reactor_cppversion/build",
+  "command": "/usr/bin/g++   -I/home/abcpony/myProjects/Reactor_cppversion/.  -g   -std=gnu++11 -o CMakeFiles/server.dir/utils/taskQueue.cpp.o -c /home/abcpony/myProjects/Reactor_cppversion/utils/taskQueue.cpp",
+  "file": "/home/abcpony/myProjects/Reactor_cppversion/utils/taskQueue.cpp"
+},
+{
+  "directory": "/home/abcpony/myProjects/Reactor_cppversion/build",
+  "command": "/usr/bin/g++   -I/home/abcpony/myProjects/Reactor_cppversion/.  -g   -std=gnu++11 -o CMakeFiles/server.dir/utils/threadPool.cpp.o -c /home/abcpony/myProjects/Reactor_cppversion/utils/threadPool.cpp",
+  "file": "/home/abcpony/myProjects/Reactor_cppversion/utils/threadPool.cpp"
+},
+{
+  "directory": "/home/abcpony/myProjects/Reactor_cppversion/build",
+  "command": "/usr/bin/g++   -I/home/abcpony/myProjects/Reactor_cppversion/.  -g   -std=gnu++11 -o CMakeFiles/server.dir/main.cpp.o -c /home/abcpony/myProjects/Reactor_cppversion/main.cpp",
+  "file": "/home/abcpony/myProjects/Reactor_cppversion/main.cpp"
+}
+]

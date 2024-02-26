@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/server.dir/utils/acceptTask.cpp.o CMakeFiles/server.dir/utils/communicationTask.cpp.o CMakeFiles/server.dir/utils/logger.cpp.o CMakeFiles/server.dir/utils/server.cpp.o CMakeFiles/server.dir/utils/task.cpp.o CMakeFiles/server.dir/utils/taskQueue.cpp.o CMakeFiles/server.dir/utils/threadPool.cpp.o CMakeFiles/server.dir/main.cpp.o  -o server  -lpthread 
