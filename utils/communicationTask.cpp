@@ -208,6 +208,7 @@ bool CommunicationTask::sendDir(const char *dirName, int cfd) { // 发送格式�
 		free(namelist[i]);
 	}
 	sprintf(buf, "</table></body></html>");
+	send(cfd, buf, strlen(buf), 0);
 	free(namelist);
 
 	return true;
